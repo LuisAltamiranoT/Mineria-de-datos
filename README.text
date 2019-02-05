@@ -1,6 +1,11 @@
 #PROYECTO BASE DE DATOS MULTIDIMENSIONAL
+
 #MINERÍA DE DATOS
+
 Ponemos a disposición los scrips de Python para mineria de datos en CouchDB.
+
 También encontraran los archivos de configuración para cargar datos desde Logstash.
+
 En el informe se presenta todas las actividades realizadas para la mineria de datos.
+
 Y el análisis deos datos con sus respectivas grafic
